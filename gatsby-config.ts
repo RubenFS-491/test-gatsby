@@ -24,8 +24,6 @@ const config: GatsbyConfig = {
   }]
 };
 
-module.exports = {
-  pathPrefix: "/test-gatsby",
-}
+
 
 export default config;
