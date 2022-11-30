@@ -24,4 +24,8 @@ const config: GatsbyConfig = {
   }]
 };
 
+module.exports = {
+  pathPrefix: "/reponame",
+}
+
 export default config;
